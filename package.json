@@ -1,0 +1,24 @@
+{
+  "name": "test_task_html_green_api_whatsapp_autorization",
+  "version": "1.0.0",
+  "description": "Claim and send message with GREEN API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mangelph/test_task_html_green_api_whatsApp_autorization.git"
+  },
+  "author": "Rico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mangelph/test_task_html_green_api_whatsApp_autorization/issues"
+  },
+  "homepage": "https://github.com/Mangelph/test_task_html_green_api_whatsApp_autorization#readme",
+  "dependencies": {
+    "@green-api/whatsapp-api-client": "^0.3.39",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
